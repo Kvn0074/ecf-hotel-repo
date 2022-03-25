@@ -1,0 +1,9 @@
+body {
+    box-sizing: border-box;
+    background: #4f5050;
+}
+
+h1 {
+    padding: 20px;
+    color: #d63384;
+}
